@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eshoppingzone.cart.service.CartServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.939 s -- in com.eshoppingzone.cart.service.CartServiceTest
